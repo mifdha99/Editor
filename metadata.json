@@ -1,0 +1,6 @@
+{
+  "name": "FotoGemini",
+  "description": "Aplikasi edit foto canggih bertenaga Gemini AI. Menghadirkan transformasi gaya artistik, penggantian background, penyempurnaan potret, filter warna interaktif, perbandingan before-after, dan analisis gambar cerdas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
